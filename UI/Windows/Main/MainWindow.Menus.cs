@@ -323,7 +323,7 @@ namespace SS14_MIDI_IDE
 					return;
 				}
 			}
-			MessageBox.Show("Please enter valid positive numbers for time signature (e.g. 4 / 4, 3 / 4, 6 / 8).", "Invalid Time Signature", MessageBoxButton.OK, MessageBoxImage.Warning);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Please enter valid positive numbers for time signature (e.g. 4 / 4, 3 / 4, 6 / 8).", "Invalid Time Signature", MessageBoxButton.OK, MessageBoxImage.Warning);
 		};
 
 		cancelBtn.Click += (s, ev) => tsWindow.Close();

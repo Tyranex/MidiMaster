@@ -963,7 +963,7 @@ namespace SS14_MIDI_IDE
 						_trackPolyphonyOffsets[trackAbsoluteIdx]--;
 						GenerateTrackerView();
 					} else {
-					    System.Windows.MessageBox.Show("Cannot remove this note row, as it contains note data.", "Cannot Remove Row", MessageBoxButton.OK, MessageBoxImage.Warning);
+					    SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Cannot remove this note row, as it contains note data.", "Cannot Remove Row", MessageBoxButton.OK, MessageBoxImage.Warning);
 					}
 				};
 

@@ -283,7 +283,7 @@ namespace SS14_MIDI_IDE
 				
 				if (hasData)
 				{
-					shouldDelete = MessageBox.Show(
+					shouldDelete = SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show(
 						"This track contains MIDI data. Are you sure you want to delete it?", 
 						"Delete Track", 
 						MessageBoxButton.YesNo, 

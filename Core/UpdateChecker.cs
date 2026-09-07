@@ -44,7 +44,7 @@ namespace SS14_MIDI_IDE
                         {
                             if (latestVersion > currentVersion)
                             {
-                                MessageBox.Show(
+                                SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show(
                                     $"A new version of MidiMaster is available!\n\nCurrent Version: {currentVersion}\nLatest Version: {latestVersion}\n\nPlease check the project page for the download.",
                                     "Update Available",
                                     MessageBoxButton.OK,
@@ -52,7 +52,7 @@ namespace SS14_MIDI_IDE
                             }
                             else if (manualCheck)
                             {
-                                MessageBox.Show(
+                                SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show(
                                     "You are running the latest version of MidiMaster.",
                                     "Up to Date",
                                     MessageBoxButton.OK,
@@ -61,18 +61,18 @@ namespace SS14_MIDI_IDE
                         }
                         else if (manualCheck)
                         {
-                            MessageBox.Show($"Failed to parse version number from the update server. Found: '{latestTag}'", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Warning);
+                            SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Failed to parse version number from the update server. Found: '{latestTag}'", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Warning);
                         }
                     }
                     else if (manualCheck)
                     {
                         if (response.StatusCode == System.Net.HttpStatusCode.NotFound)
                         {
-                            MessageBox.Show("The update URL has not been configured yet (or the file is missing on your server).\n\nPlease replace 'UpdateUrl' in UpdateChecker.cs with your real JSON file URL.", "Update URL Not Configured", MessageBoxButton.OK, MessageBoxImage.Information);
+                            SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("The update URL has not been configured yet (or the file is missing on your server).\n\nPlease replace 'UpdateUrl' in UpdateChecker.cs with your real JSON file URL.", "Update URL Not Configured", MessageBoxButton.OK, MessageBoxImage.Information);
                         }
                         else
                         {
-                            MessageBox.Show($"Failed to check for updates: {response.StatusCode}", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Warning);
+                            SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Failed to check for updates: {response.StatusCode}", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Warning);
                         }
                     }
                 }
@@ -81,7 +81,7 @@ namespace SS14_MIDI_IDE
             {
                 if (manualCheck)
                 {
-                    MessageBox.Show($"Error checking for updates: {ex.Message}", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Error);
+                    SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Error checking for updates: {ex.Message}", "Update Check Failed", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
         }

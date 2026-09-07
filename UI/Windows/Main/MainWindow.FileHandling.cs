@@ -88,7 +88,7 @@ namespace SS14_MIDI_IDE
 			}
 			catch (Exception ex)
 			{
-				MessageBox.Show($"Error saving project: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Error saving project: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
 			}
 		}
 	}
@@ -167,7 +167,7 @@ namespace SS14_MIDI_IDE
 			}
 			catch (Exception ex)
 			{
-				MessageBox.Show($"Error opening project: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Error opening project: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
 			}
 		}
 	}
@@ -206,7 +206,7 @@ namespace SS14_MIDI_IDE
 			catch (Exception ex)
 			{
 				System.IO.File.WriteAllText("crash.log", ex.ToString());
-				MessageBox.Show($"Failed to import FTM file:\n{ex.Message}", "Import Error", MessageBoxButton.OK, MessageBoxImage.Error);
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show($"Failed to import FTM file:\n{ex.Message}", "Import Error", MessageBoxButton.OK, MessageBoxImage.Error);
 			}
 		}
 	}
@@ -216,7 +216,7 @@ namespace SS14_MIDI_IDE
 	{
 		if (_loadedMidi == null)
 		{
-			MessageBox.Show("No MIDI file is currently loaded.", "Export Error", MessageBoxButton.OK, MessageBoxImage.Warning);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("No MIDI file is currently loaded.", "Export Error", MessageBoxButton.OK, MessageBoxImage.Warning);
 			return;
 		}
 
@@ -230,11 +230,11 @@ namespace SS14_MIDI_IDE
 			try
 			{
 				_loadedMidi.Write(saveFileDialog.FileName, true, format: MidiFileFormat.MultiTrack);
-				MessageBox.Show("MIDI file exported successfully!", "Export Success", MessageBoxButton.OK, MessageBoxImage.Information);
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("MIDI file exported successfully!", "Export Success", MessageBoxButton.OK, MessageBoxImage.Information);
 			}
 			catch (Exception ex)
 			{
-				MessageBox.Show("Error exporting MIDI: " + ex.Message, "Export Error", MessageBoxButton.OK, MessageBoxImage.Error);
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Error exporting MIDI: " + ex.Message, "Export Error", MessageBoxButton.OK, MessageBoxImage.Error);
 			}
 		}
 	}
@@ -299,7 +299,7 @@ namespace SS14_MIDI_IDE
 
 			if (hadPanData)
 			{
-				MessageBox.Show(
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show(
 					"This MIDI contains stereo panning data (CC#10) which isn't read in-game. " +
 					"The pan data has been automatically removed and all tracks have been set to mono.",
 					"Stereo Data Removed",
@@ -309,7 +309,7 @@ namespace SS14_MIDI_IDE
 
 			if (hadInvalidValues)
 			{
-				MessageBox.Show(
+				SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show(
 					"This MIDI file contained illegal parameter values (such as Note Velocity > 127). " +
 					"These values have been automatically clamped to their legal limits.",
 					"Illegal Values Fixed",
@@ -319,7 +319,7 @@ namespace SS14_MIDI_IDE
 		}
 		catch (Exception ex)
 		{
-			MessageBox.Show("Error loading MIDI: " + ex.Message);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Error loading MIDI: " + ex.Message);
 		}
 	}
 

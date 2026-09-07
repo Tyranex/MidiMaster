@@ -997,7 +997,7 @@ public partial class MainWindow : Window
 				slideWindow.Close();
 				return;
 			}
-			MessageBox.Show("Please enter a valid duration between 0.0625 and 64 beats.", "Invalid Duration", MessageBoxButton.OK, MessageBoxImage.Warning);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Please enter a valid duration between 0.0625 and 64 beats.", "Invalid Duration", MessageBoxButton.OK, MessageBoxImage.Warning);
 		};
 
 		clearBtn.Click += (s, ev) =>
@@ -2134,7 +2134,7 @@ public partial class MainWindow : Window
 				bpmWindow.Close();
 				return;
 			}
-			MessageBox.Show("Please enter a valid tempo between 20 and 999 BPM.", "Invalid Tempo", MessageBoxButton.OK, MessageBoxImage.Warning);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Please enter a valid tempo between 20 and 999 BPM.", "Invalid Tempo", MessageBoxButton.OK, MessageBoxImage.Warning);
 		};
 
 		cancelBtn.Click += (s, ev) => bpmWindow.Close();
@@ -2230,7 +2230,7 @@ public partial class MainWindow : Window
 				vibWindow.Close();
 				return;
 			}
-			MessageBox.Show("Please enter a valid vibrato depth between 0 and 127.", "Invalid Value", MessageBoxButton.OK, MessageBoxImage.Warning);
+			SS14_MIDI_IDE.UI.Windows.CustomMessageBox.Show("Please enter a valid vibrato depth between 0 and 127.", "Invalid Value", MessageBoxButton.OK, MessageBoxImage.Warning);
 		};
 
 		clearBtn.Click += (s, ev) =>
