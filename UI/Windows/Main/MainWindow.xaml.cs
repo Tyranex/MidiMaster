@@ -183,7 +183,7 @@ public partial class MainWindow : Window
 
 	private bool _isDraggingVelocity;
 
-	private Note _currentVelocityNote;
+	private Note _currentVelocityNote = default!;
 
 	private Point _velocityDragStartPoint;
 
@@ -197,15 +197,15 @@ public partial class MainWindow : Window
 
 
 
-	private NoteElement currentNote;
+	private NoteElement currentNote = default!;
 
-	private Line playheadLine;
+	private Line playheadLine = default!;
+	
+	private Polygon playheadTriangle = default!;
 
-	private Polygon playheadTriangle;
+	private DispatcherTimer playbackTimer = default!;
 
-	private DispatcherTimer playbackTimer;
-
-	private Stopwatch stopwatch;
+	private Stopwatch stopwatch = default!;
 
 	private bool isDraggingNote;
 
@@ -215,7 +215,7 @@ public partial class MainWindow : Window
 
 	private Point selectionStartPoint;
 
-	private Rectangle selectionBox;
+	private Rectangle selectionBox = default!;
 
 	private List<NoteElement> selectedNotes;
 
@@ -227,7 +227,7 @@ public partial class MainWindow : Window
 
 	private int lastBeatIndex;
 	private string[] InstrumentNames;
-	private MidiFile _loadedMidi;
+	private MidiFile _loadedMidi = default!;
 	private AudioEngine _audioEngine;
 	private List<Canvas> _trackCanvases;
 	private List<bool> _trackMuted;
@@ -242,7 +242,7 @@ public partial class MainWindow : Window
 	private bool _isUpdatingMuteUI = false;
 	private bool _isUpdatingVisualUI = false;
 	private List<ClipboardCell> _trackerClipboardCells = new List<ClipboardCell>();
-	private DispatcherTimer _playheadTimer;
+
 	private DispatcherTimer _midiSaveTimer;
 	private List<int> _trackChannels = new List<int>();
 	
@@ -251,7 +251,7 @@ public partial class MainWindow : Window
 	private Dictionary<int, VisualHost> _trackerVisualHosts = new Dictionary<int, VisualHost>();
 
 	private bool _isDraggingTrackerSelection;
-	private Rectangle _trackerSelectionHighlight;
+
 	private List<Note> _clipboardNotes = new List<Note>();
 	public UndoRedoManager UndoManager { get; } = new UndoRedoManager();
 

@@ -112,12 +112,12 @@ namespace SS14_MIDI_IDE
             }
         }
 
-        public void LoadMidi(string filePath, string metronomeFilePath = null)
+        public void LoadMidi(string filePath, string? metronomeFilePath = null)
         {
             // Fallback for empty/tests
         }
 
-        public void LoadMidi(System.IO.Stream stream, System.IO.Stream metronomeStream = null)
+        public void LoadMidi(System.IO.Stream stream, System.IO.Stream? metronomeStream = null)
         {
             // Fallback for empty/tests
         }

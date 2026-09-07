@@ -6,7 +6,7 @@
     <RootNamespace>SS14_MIDI_IDE</RootNamespace>
     <AssemblyName>MidiMaster</AssemblyName>
     <Product>MidiMaster</Product>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
     <UseWindowsForms>true</UseWindowsForms>
