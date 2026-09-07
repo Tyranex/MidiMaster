@@ -11,7 +11,7 @@
         WindowStyle="None"
         AllowsTransparency="True">
     
-    <Border CornerRadius="5" Background="#2d2d30" Padding="10">
+    <Border CornerRadius="5" Background="#2d2d30">
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
@@ -19,7 +19,8 @@
             </Grid.RowDefinitions>
             
             <!-- Header -->
-            <DockPanel Grid.Row="0" Height="30" Background="#3e3e42" MouseLeftButtonDown="Header_MouseLeftButtonDown">
+            <Border Grid.Row="0" CornerRadius="5,5,0,0" Background="#3e3e42" MouseLeftButtonDown="Header_MouseLeftButtonDown">
+            <DockPanel Height="30">
                 <TextBlock Text="Changelog" Foreground="White" VerticalAlignment="Center" Margin="10,0" FontWeight="Bold"/>
                 <Button Width="30" Height="30" HorizontalAlignment="Right" Margin="0,0,5,0" Click="CloseButton_Click" Foreground="White">
                     <Button.Template>
@@ -37,9 +38,10 @@
                     </Button.Template>
                 </Button>
             </DockPanel>
+            </Border>
             
             <!-- Content -->
-            <ScrollViewer Grid.Row="1" Margin="0,15,0,0" VerticalScrollBarVisibility="Auto">
+            <ScrollViewer Grid.Row="1" Margin="10,15,10,10" VerticalScrollBarVisibility="Auto">
                 <StackPanel Margin="10,0,10,10">
                     
                     <TextBlock Text="Version History" FontWeight="Bold" FontSize="20" Foreground="White" Margin="0,0,0,20"/>
