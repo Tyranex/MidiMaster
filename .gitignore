@@ -1,0 +1,17 @@
+# .NET Core
+bin/
+obj/
+build/
+build_unbundled/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db

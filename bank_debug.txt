@@ -1,0 +1,1293 @@
+Loaded Track (Channel -1): 0 program/bank events.
+Loaded Track (Channel -1): 0 program/bank events.
+Loaded Track (Channel 0): 20 program/bank events.
+  [LOAD] Bank: ch=0 val=2 time=0
+  [LOAD] Bank: ch=0 val=2 time=0
+  [LOAD] PC: ch=0 prog=70 time=0
+  [LOAD] PC: ch=0 prog=75 time=0
+  [LOAD] Bank: ch=0 val=2 time=324
+  [LOAD] PC: ch=0 prog=78 time=324
+  [LOAD] Bank: ch=0 val=2 time=432
+  [LOAD] PC: ch=0 prog=75 time=432
+  [LOAD] Bank: ch=0 val=2 time=444
+  [LOAD] PC: ch=0 prog=78 time=444
+  [LOAD] Bank: ch=0 val=2 time=504
+  [LOAD] PC: ch=0 prog=75 time=504
+  [LOAD] Bank: ch=0 val=2 time=564
+  [LOAD] PC: ch=0 prog=78 time=564
+  [LOAD] Bank: ch=0 val=2 time=600
+  [LOAD] PC: ch=0 prog=75 time=600
+  [LOAD] Bank: ch=0 val=2 time=660
+  [LOAD] PC: ch=0 prog=78 time=660
+  [LOAD] Bank: ch=0 val=2 time=708
+  [LOAD] PC: ch=0 prog=75 time=708
+Loaded Track (Channel 1): 2 program/bank events.
+  [LOAD] Bank: ch=1 val=2 time=0
+  [LOAD] PC: ch=1 prog=70 time=0
+Loaded Track (Channel 2): 34 program/bank events.
+  [LOAD] Bank: ch=2 val=2 time=0
+  [LOAD] Bank: ch=2 val=2 time=0
+  [LOAD] PC: ch=2 prog=72 time=0
+  [LOAD] PC: ch=2 prog=75 time=0
+  [LOAD] Bank: ch=2 val=2 time=24
+  [LOAD] PC: ch=2 prog=76 time=24
+  [LOAD] Bank: ch=2 val=2 time=36
+  [LOAD] PC: ch=2 prog=75 time=36
+  [LOAD] Bank: ch=2 val=2 time=72
+  [LOAD] PC: ch=2 prog=76 time=72
+  [LOAD] Bank: ch=2 val=2 time=84
+  [LOAD] PC: ch=2 prog=75 time=84
+  [LOAD] Bank: ch=2 val=2 time=120
+  [LOAD] PC: ch=2 prog=76 time=120
+  [LOAD] Bank: ch=2 val=2 time=132
+  [LOAD] PC: ch=2 prog=75 time=132
+  [LOAD] Bank: ch=2 val=2 time=168
+  [LOAD] PC: ch=2 prog=76 time=168
+  [LOAD] Bank: ch=2 val=2 time=384
+  [LOAD] PC: ch=2 prog=75 time=384
+  [LOAD] Bank: ch=2 val=2 time=408
+  [LOAD] PC: ch=2 prog=76 time=408
+  [LOAD] Bank: ch=2 val=2 time=420
+  [LOAD] PC: ch=2 prog=75 time=420
+  [LOAD] Bank: ch=2 val=2 time=456
+  [LOAD] PC: ch=2 prog=76 time=456
+  [LOAD] Bank: ch=2 val=2 time=468
+  [LOAD] PC: ch=2 prog=75 time=468
+  [LOAD] Bank: ch=2 val=2 time=504
+  [LOAD] PC: ch=2 prog=76 time=504
+  [LOAD] Bank: ch=2 val=2 time=516
+  [LOAD] PC: ch=2 prog=75 time=516
+  [LOAD] Bank: ch=2 val=2 time=552
+  [LOAD] PC: ch=2 prog=76 time=552
+Loaded Track (Channel 3): 4 program/bank events.
+  [LOAD] Bank: ch=3 val=2 time=0
+  [LOAD] Bank: ch=3 val=2 time=0
+  [LOAD] PC: ch=3 prog=74 time=0
+  [LOAD] PC: ch=3 prog=77 time=0
+Loaded Track (Channel -1): 0 program/bank events.
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Loaded Track (Channel -1): 0 program/bank events.
+Loaded Track (Channel 0): 0 program/bank events.
+Loaded Track (Channel 0): 0 program/bank events.
+Loaded Track (Channel 0): 0 program/bank events.
+Loaded Track (Channel 0): 1 program/bank events.
+  [LOAD] PC: ch=0 prog=7 time=0
+Loaded Track (Channel 1): 0 program/bank events.
+Loaded Track (Channel 2): 0 program/bank events.
+Loaded Track (Channel 3): 0 program/bank events.
+Loaded Track (Channel 4): 0 program/bank events.
+Loaded Track (Channel 5): 0 program/bank events.
+Loaded Track (Channel 9): 0 program/bank events.
+Loaded Track (Channel 9): 0 program/bank events.
+Loaded Track (Channel 6): 0 program/bank events.
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=1.8667 Event=Bank Val=2
+Time=1.8667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.3333 Event=Bank Val=2
+Time=0.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.6667 Event=Bank Val=2
+Time=0.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.0000 Event=Bank Val=2
+Time=1.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=1.3333 Event=Bank Val=2
+Time=1.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.6667 Event=Bank Val=2
+Time=1.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=2.0000 Event=Bank Val=2
+Time=2.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=2.3333 Event=Bank Val=2
+Time=2.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=2.6667 Event=Bank Val=2
+Time=2.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=3.0000 Event=Bank Val=2
+Time=3.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.3333 Event=Bank Val=2
+Time=3.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=3.6667 Event=Bank Val=2
+Time=3.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.0000 Event=Bank Val=2
+Time=4.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=4.3333 Event=Bank Val=2
+Time=4.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.6667 Event=Bank Val=2
+Time=4.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=5.0000 Event=Bank Val=2
+Time=5.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.3333 Event=Bank Val=2
+Time=5.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=5.6667 Event=Bank Val=2
+Time=5.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.0000 Event=Bank Val=2
+Time=6.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=6.3333 Event=Bank Val=2
+Time=6.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.6667 Event=Bank Val=2
+Time=6.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=7.0000 Event=Bank Val=2
+Time=7.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.3333 Event=Bank Val=2
+Time=7.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=7.6667 Event=Bank Val=2
+Time=7.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.0000 Event=Bank Val=2
+Time=8.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=8.3333 Event=Bank Val=2
+Time=8.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.6667 Event=Bank Val=2
+Time=8.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=9.0000 Event=Bank Val=2
+Time=9.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=9.3333 Event=Bank Val=2
+Time=9.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=9.6667 Event=Bank Val=2
+Time=9.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.0000 Event=Bank Val=2
+Time=10.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=10.3333 Event=Bank Val=2
+Time=10.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.6667 Event=Bank Val=2
+Time=10.6667 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=10.6667 Event=Bank Val=2
+Time=10.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=10.6667 Event=Bank Val=2
+Time=10.6667 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=10.6667 Event=Bank Val=2
+Time=10.6667 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=11.0000 Event=Bank Val=2
+Time=11.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.3333 Event=Bank Val=2
+Time=11.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=11.6667 Event=Bank Val=2
+Time=11.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.0000 Event=Bank Val=2
+Time=12.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=12.3333 Event=Bank Val=2
+Time=12.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.6667 Event=Bank Val=2
+Time=12.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=13.0000 Event=Bank Val=2
+Time=13.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=13.3333 Event=Bank Val=2
+Time=13.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=13.6667 Event=Bank Val=2
+Time=13.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=14.0000 Event=Bank Val=2
+Time=14.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=14.3333 Event=Bank Val=2
+Time=14.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=14.6667 Event=Bank Val=2
+Time=14.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=15.0000 Event=Bank Val=2
+Time=15.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=15.3333 Event=Bank Val=2
+Time=15.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=15.6667 Event=Bank Val=2
+Time=15.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=16.0000 Event=Bank Val=2
+Time=16.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=16.3333 Event=Bank Val=2
+Time=16.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=16.6667 Event=Bank Val=2
+Time=16.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=17.0000 Event=Bank Val=2
+Time=17.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=17.3333 Event=Bank Val=2
+Time=17.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=17.6666 Event=Bank Val=2
+Time=17.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=18.0000 Event=Bank Val=2
+Time=18.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=18.3333 Event=Bank Val=2
+Time=18.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=18.6666 Event=Bank Val=2
+Time=18.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=19.0000 Event=Bank Val=2
+Time=19.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=19.3333 Event=Bank Val=2
+Time=19.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=19.6666 Event=Bank Val=2
+Time=19.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=20.0000 Event=Bank Val=2
+Time=20.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=20.3333 Event=Bank Val=2
+Time=20.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=20.6666 Event=Bank Val=2
+Time=20.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=21.0000 Event=Bank Val=2
+Time=21.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=21.3333 Event=Bank Val=2
+Time=21.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=21.3333 Event=Bank Val=2
+Time=21.3333 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=21.6666 Event=Bank Val=2
+Time=21.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=22.0000 Event=Bank Val=2
+Time=22.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=22.3333 Event=Bank Val=2
+Time=22.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=22.6666 Event=Bank Val=2
+Time=22.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=23.0000 Event=Bank Val=2
+Time=23.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=23.3333 Event=Bank Val=2
+Time=23.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=23.6666 Event=Bank Val=2
+Time=23.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=24.0000 Event=Bank Val=2
+Time=24.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=24.3333 Event=Bank Val=2
+Time=24.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=24.6666 Event=Bank Val=2
+Time=24.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=25.0000 Event=Bank Val=2
+Time=25.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=25.3333 Event=Bank Val=2
+Time=25.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=25.6666 Event=Bank Val=2
+Time=25.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=26.0000 Event=Bank Val=2
+Time=26.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=26.3333 Event=Bank Val=2
+Time=26.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=26.6666 Event=Bank Val=2
+Time=26.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=27.0000 Event=Bank Val=2
+Time=27.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=27.3333 Event=Bank Val=2
+Time=27.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=27.6666 Event=Bank Val=2
+Time=27.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=28.0000 Event=Bank Val=2
+Time=28.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=28.3333 Event=Bank Val=2
+Time=28.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=28.6666 Event=Bank Val=2
+Time=28.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=29.0000 Event=Bank Val=2
+Time=29.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=29.3333 Event=Bank Val=2
+Time=29.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=29.6666 Event=Bank Val=2
+Time=29.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=30.0000 Event=Bank Val=2
+Time=30.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=30.3333 Event=Bank Val=2
+Time=30.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=30.6666 Event=Bank Val=2
+Time=30.6666 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=31.0000 Event=Bank Val=2
+Time=31.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=31.3333 Event=Bank Val=2
+Time=31.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=31.6666 Event=Bank Val=2
+Time=31.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=32.0000 Event=Bank Val=2
+Time=32.0000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=32.3333 Event=Bank Val=2
+Time=32.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=32.5000 Event=Bank Val=2
+Time=32.5000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=33.0000 Event=Bank Val=2
+Time=33.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=33.1666 Event=Bank Val=2
+Time=33.1666 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=33.6666 Event=Bank Val=2
+Time=33.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=33.8333 Event=Bank Val=2
+Time=33.8333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=34.3333 Event=Bank Val=2
+Time=34.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=34.5000 Event=Bank Val=2
+Time=34.5000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=35.0000 Event=Bank Val=2
+Time=35.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=35.1666 Event=Bank Val=2
+Time=35.1666 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=35.6666 Event=Bank Val=2
+Time=35.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=35.8333 Event=Bank Val=2
+Time=35.8333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=36.3333 Event=Bank Val=2
+Time=36.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=36.5000 Event=Bank Val=2
+Time=36.5000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=37.0000 Event=Bank Val=2
+Time=37.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=37.3333 Event=Bank Val=2
+Time=37.3333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=37.6666 Event=Bank Val=2
+Time=37.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=37.8333 Event=Bank Val=2
+Time=37.8333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=38.3333 Event=Bank Val=2
+Time=38.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=38.5000 Event=Bank Val=2
+Time=38.5000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=39.0000 Event=Bank Val=2
+Time=39.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=39.1666 Event=Bank Val=2
+Time=39.1666 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=39.6666 Event=Bank Val=2
+Time=39.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=39.8333 Event=Bank Val=2
+Time=39.8333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=40.0000 Event=Bank Val=2
+Time=40.0000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=40.0000 Event=Bank Val=2
+Time=40.0000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=40.3333 Event=Bank Val=2
+Time=40.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=40.5000 Event=Bank Val=2
+Time=40.5000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=41.0000 Event=Bank Val=2
+Time=41.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=41.3333 Event=Bank Val=2
+Time=41.3333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=41.6666 Event=Bank Val=2
+Time=41.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=42.0000 Event=Bank Val=2
+Time=42.0000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=42.3333 Event=Bank Val=2
+Time=42.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=42.6666 Event=Bank Val=2
+Time=42.6666 Event=PC Prog=82 ResultingPlayerProg=338 CurrentBank=2
+Time=42.6666 Event=Bank Val=2
+Time=42.6666 Event=PC Prog=82 ResultingPlayerProg=338 CurrentBank=2
+Time=42.6666 Event=Bank Val=2
+Time=42.6666 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=42.6666 Event=Bank Val=2
+Time=42.6666 Event=PC Prog=83 ResultingPlayerProg=339 CurrentBank=2
+Time=42.6666 Event=Bank Val=2
+Time=42.6666 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=43.0000 Event=Bank Val=2
+Time=43.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=43.1666 Event=Bank Val=2
+Time=43.1666 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=43.6666 Event=Bank Val=2
+Time=43.6666 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=43.8333 Event=Bank Val=2
+Time=43.8333 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=0.2963 Event=Bank Val=2
+Time=0.2963 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=0.4444 Event=Bank Val=2
+Time=0.4444 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.8889 Event=Bank Val=2
+Time=0.8889 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.0370 Event=Bank Val=2
+Time=1.0370 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=1.4815 Event=Bank Val=2
+Time=1.4815 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.6296 Event=Bank Val=2
+Time=1.6296 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=2.0741 Event=Bank Val=2
+Time=2.0741 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.4000 Event=Bank Val=2
+Time=0.4000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=0.4000 Event=Bank Val=2
+Time=0.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=0.5000 Event=Bank Val=2
+Time=0.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=0.8000 Event=Bank Val=2
+Time=0.8000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=1.4000 Event=Bank Val=2
+Time=1.4000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=1.5000 Event=Bank Val=2
+Time=1.5000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=3.3500 Event=Bank Val=2
+Time=3.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.4000 Event=Bank Val=2
+Time=3.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.4500 Event=Bank Val=2
+Time=3.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.5000 Event=Bank Val=2
+Time=3.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.5500 Event=Bank Val=2
+Time=3.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.6000 Event=Bank Val=2
+Time=3.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.6000 Event=Bank Val=2
+Time=3.6000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=3.6500 Event=Bank Val=2
+Time=3.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.7000 Event=Bank Val=2
+Time=3.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.7000 Event=Bank Val=2
+Time=3.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=3.7500 Event=Bank Val=2
+Time=3.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.8000 Event=Bank Val=2
+Time=3.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.8500 Event=Bank Val=2
+Time=3.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.9000 Event=Bank Val=2
+Time=3.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.9500 Event=Bank Val=2
+Time=3.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.0000 Event=Bank Val=2
+Time=4.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.0500 Event=Bank Val=2
+Time=4.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.1000 Event=Bank Val=2
+Time=4.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.1500 Event=Bank Val=2
+Time=4.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.2000 Event=Bank Val=2
+Time=4.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.2500 Event=Bank Val=2
+Time=4.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.3000 Event=Bank Val=2
+Time=4.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.3500 Event=Bank Val=2
+Time=4.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.4000 Event=Bank Val=2
+Time=4.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.4500 Event=Bank Val=2
+Time=4.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.5000 Event=Bank Val=2
+Time=4.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.4000 Event=Bank Val=2
+Time=4.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=4.5000 Event=Bank Val=2
+Time=4.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=4.5500 Event=Bank Val=2
+Time=4.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.6000 Event=Bank Val=2
+Time=4.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.6500 Event=Bank Val=2
+Time=4.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.7000 Event=Bank Val=2
+Time=4.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.7500 Event=Bank Val=2
+Time=4.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.8000 Event=Bank Val=2
+Time=4.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.8000 Event=Bank Val=2
+Time=4.8000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=4.8500 Event=Bank Val=2
+Time=4.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.9000 Event=Bank Val=2
+Time=4.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.9500 Event=Bank Val=2
+Time=4.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.0000 Event=Bank Val=2
+Time=5.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.0500 Event=Bank Val=2
+Time=5.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.1000 Event=Bank Val=2
+Time=5.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.1500 Event=Bank Val=2
+Time=5.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.2000 Event=Bank Val=2
+Time=5.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.2500 Event=Bank Val=2
+Time=5.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.3000 Event=Bank Val=2
+Time=5.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.2000 Event=Bank Val=2
+Time=5.2000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=5.3000 Event=Bank Val=2
+Time=5.3000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=5.3500 Event=Bank Val=2
+Time=5.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.4000 Event=Bank Val=2
+Time=5.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.4500 Event=Bank Val=2
+Time=5.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.5000 Event=Bank Val=2
+Time=5.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.5500 Event=Bank Val=2
+Time=5.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.6000 Event=Bank Val=2
+Time=5.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.6500 Event=Bank Val=2
+Time=5.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.7000 Event=Bank Val=2
+Time=5.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.7500 Event=Bank Val=2
+Time=5.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.8000 Event=Bank Val=2
+Time=5.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.8500 Event=Bank Val=2
+Time=5.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.9000 Event=Bank Val=2
+Time=5.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.9500 Event=Bank Val=2
+Time=5.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.0000 Event=Bank Val=2
+Time=6.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.0000 Event=Bank Val=2
+Time=6.0000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=6.0500 Event=Bank Val=2
+Time=6.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.1000 Event=Bank Val=2
+Time=6.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.1500 Event=Bank Val=2
+Time=6.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.2000 Event=Bank Val=2
+Time=6.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.2500 Event=Bank Val=2
+Time=6.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.3000 Event=Bank Val=2
+Time=6.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.2000 Event=Bank Val=2
+Time=6.2000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=6.3500 Event=Bank Val=2
+Time=6.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.4000 Event=Bank Val=2
+Time=6.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.5500 Event=Bank Val=2
+Time=6.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.6000 Event=Bank Val=2
+Time=6.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.6000 Event=Bank Val=2
+Time=6.6000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=6.6500 Event=Bank Val=2
+Time=6.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.7000 Event=Bank Val=2
+Time=6.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.7500 Event=Bank Val=2
+Time=6.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.8000 Event=Bank Val=2
+Time=6.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.8000 Event=Bank Val=2
+Time=6.8000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=6.8500 Event=Bank Val=2
+Time=6.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.9000 Event=Bank Val=2
+Time=6.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.9500 Event=Bank Val=2
+Time=6.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.0000 Event=Bank Val=2
+Time=7.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.9000 Event=Bank Val=2
+Time=6.9000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=7.0500 Event=Bank Val=2
+Time=7.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.1000 Event=Bank Val=2
+Time=7.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.1500 Event=Bank Val=2
+Time=7.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.2000 Event=Bank Val=2
+Time=7.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.2500 Event=Bank Val=2
+Time=7.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.3000 Event=Bank Val=2
+Time=7.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.3500 Event=Bank Val=2
+Time=7.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.4000 Event=Bank Val=2
+Time=7.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.4500 Event=Bank Val=2
+Time=7.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.5000 Event=Bank Val=2
+Time=7.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.5500 Event=Bank Val=2
+Time=7.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.6000 Event=Bank Val=2
+Time=7.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.6000 Event=Bank Val=2
+Time=7.6000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=7.6500 Event=Bank Val=2
+Time=7.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.7000 Event=Bank Val=2
+Time=7.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.7500 Event=Bank Val=2
+Time=7.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.8000 Event=Bank Val=2
+Time=7.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.7000 Event=Bank Val=2
+Time=7.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=7.8500 Event=Bank Val=2
+Time=7.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.9000 Event=Bank Val=2
+Time=7.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.9500 Event=Bank Val=2
+Time=7.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.0000 Event=Bank Val=2
+Time=8.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.0500 Event=Bank Val=2
+Time=8.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.1000 Event=Bank Val=2
+Time=8.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.1500 Event=Bank Val=2
+Time=8.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.2000 Event=Bank Val=2
+Time=8.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.2500 Event=Bank Val=2
+Time=8.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.3000 Event=Bank Val=2
+Time=8.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.3500 Event=Bank Val=2
+Time=8.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.4000 Event=Bank Val=2
+Time=8.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.4000 Event=Bank Val=2
+Time=8.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=8.4500 Event=Bank Val=2
+Time=8.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.5000 Event=Bank Val=2
+Time=8.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.5000 Event=Bank Val=2
+Time=8.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=8.5500 Event=Bank Val=2
+Time=8.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.6000 Event=Bank Val=2
+Time=8.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.6000 Event=Bank Val=2
+Time=8.6000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=8.6500 Event=Bank Val=2
+Time=8.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.7000 Event=Bank Val=2
+Time=8.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.7000 Event=Bank Val=2
+Time=8.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=8.7500 Event=Bank Val=2
+Time=8.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.8000 Event=Bank Val=2
+Time=8.8000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=9.2000 Event=Bank Val=2
+Time=9.2000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=9.4000 Event=Bank Val=2
+Time=9.4000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=9.5000 Event=Bank Val=2
+Time=9.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=9.6000 Event=Bank Val=2
+Time=9.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=9.7500 Event=Bank Val=2
+Time=9.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=9.8000 Event=Bank Val=2
+Time=9.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=9.8500 Event=Bank Val=2
+Time=9.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=9.9000 Event=Bank Val=2
+Time=9.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=9.8000 Event=Bank Val=2
+Time=9.8000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=9.9500 Event=Bank Val=2
+Time=9.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.0000 Event=Bank Val=2
+Time=10.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.0000 Event=Bank Val=2
+Time=10.0000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=10.0500 Event=Bank Val=2
+Time=10.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.1000 Event=Bank Val=2
+Time=10.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.1000 Event=Bank Val=2
+Time=10.1000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=10.1500 Event=Bank Val=2
+Time=10.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.2000 Event=Bank Val=2
+Time=10.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.2500 Event=Bank Val=2
+Time=10.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.3000 Event=Bank Val=2
+Time=10.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.3500 Event=Bank Val=2
+Time=10.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.4000 Event=Bank Val=2
+Time=10.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.4500 Event=Bank Val=2
+Time=10.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.5000 Event=Bank Val=2
+Time=10.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.5500 Event=Bank Val=2
+Time=10.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.6000 Event=Bank Val=2
+Time=10.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.6500 Event=Bank Val=2
+Time=10.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.7000 Event=Bank Val=2
+Time=10.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.7500 Event=Bank Val=2
+Time=10.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.8000 Event=Bank Val=2
+Time=10.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.8500 Event=Bank Val=2
+Time=10.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=10.9000 Event=Bank Val=2
+Time=10.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=10.8000 Event=Bank Val=2
+Time=10.8000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=10.9000 Event=Bank Val=2
+Time=10.9000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=10.9500 Event=Bank Val=2
+Time=10.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.0000 Event=Bank Val=2
+Time=11.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.0500 Event=Bank Val=2
+Time=11.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.1000 Event=Bank Val=2
+Time=11.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.1500 Event=Bank Val=2
+Time=11.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.2000 Event=Bank Val=2
+Time=11.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.2000 Event=Bank Val=2
+Time=11.2000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=11.2500 Event=Bank Val=2
+Time=11.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.3000 Event=Bank Val=2
+Time=11.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.3500 Event=Bank Val=2
+Time=11.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.4000 Event=Bank Val=2
+Time=11.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.4500 Event=Bank Val=2
+Time=11.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.5000 Event=Bank Val=2
+Time=11.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.5500 Event=Bank Val=2
+Time=11.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.6000 Event=Bank Val=2
+Time=11.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.6000 Event=Bank Val=2
+Time=11.6000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=11.6500 Event=Bank Val=2
+Time=11.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.7000 Event=Bank Val=2
+Time=11.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.7000 Event=Bank Val=2
+Time=11.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=11.7500 Event=Bank Val=2
+Time=11.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.8000 Event=Bank Val=2
+Time=11.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.8500 Event=Bank Val=2
+Time=11.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=11.9000 Event=Bank Val=2
+Time=11.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=11.9500 Event=Bank Val=2
+Time=11.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.0000 Event=Bank Val=2
+Time=12.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.0500 Event=Bank Val=2
+Time=12.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.1000 Event=Bank Val=2
+Time=12.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.1500 Event=Bank Val=2
+Time=12.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.2000 Event=Bank Val=2
+Time=12.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.2500 Event=Bank Val=2
+Time=12.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.3000 Event=Bank Val=2
+Time=12.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.3500 Event=Bank Val=2
+Time=12.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.4000 Event=Bank Val=2
+Time=12.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.4000 Event=Bank Val=2
+Time=12.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=12.4500 Event=Bank Val=2
+Time=12.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.5000 Event=Bank Val=2
+Time=12.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.5500 Event=Bank Val=2
+Time=12.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.6000 Event=Bank Val=2
+Time=12.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=12.6000 Event=Bank Val=2
+Time=12.6000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=12.6500 Event=Bank Val=2
+Time=12.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=12.7000 Event=Bank Val=2
+Time=12.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=1.8667 Event=Bank Val=2
+Time=1.8667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.4000 Event=Bank Val=2
+Time=0.4000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=0.4000 Event=Bank Val=2
+Time=0.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=0.5000 Event=Bank Val=2
+Time=0.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=0.8000 Event=Bank Val=2
+Time=0.8000 Event=PC Prog=79 ResultingPlayerProg=335 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=1.2000 Event=Bank Val=2
+Time=1.2000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=1.4000 Event=Bank Val=2
+Time=1.4000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=1.5000 Event=Bank Val=2
+Time=1.5000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.2000 Event=Bank Val=2
+Time=3.2000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=3.3500 Event=Bank Val=2
+Time=3.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.4000 Event=Bank Val=2
+Time=3.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.4500 Event=Bank Val=2
+Time=3.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.5000 Event=Bank Val=2
+Time=3.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.5500 Event=Bank Val=2
+Time=3.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.6000 Event=Bank Val=2
+Time=3.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.6000 Event=Bank Val=2
+Time=3.6000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=3.6500 Event=Bank Val=2
+Time=3.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.7000 Event=Bank Val=2
+Time=3.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.7000 Event=Bank Val=2
+Time=3.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=3.7500 Event=Bank Val=2
+Time=3.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.8000 Event=Bank Val=2
+Time=3.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.8500 Event=Bank Val=2
+Time=3.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=3.9000 Event=Bank Val=2
+Time=3.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.9500 Event=Bank Val=2
+Time=3.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.0000 Event=Bank Val=2
+Time=4.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.0500 Event=Bank Val=2
+Time=4.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.1000 Event=Bank Val=2
+Time=4.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.1500 Event=Bank Val=2
+Time=4.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.2000 Event=Bank Val=2
+Time=4.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.2500 Event=Bank Val=2
+Time=4.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.3000 Event=Bank Val=2
+Time=4.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.3500 Event=Bank Val=2
+Time=4.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.4000 Event=Bank Val=2
+Time=4.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.4500 Event=Bank Val=2
+Time=4.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.5000 Event=Bank Val=2
+Time=4.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.4000 Event=Bank Val=2
+Time=4.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=4.5000 Event=Bank Val=2
+Time=4.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=4.5500 Event=Bank Val=2
+Time=4.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.6000 Event=Bank Val=2
+Time=4.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.6500 Event=Bank Val=2
+Time=4.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.7000 Event=Bank Val=2
+Time=4.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.7500 Event=Bank Val=2
+Time=4.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.8000 Event=Bank Val=2
+Time=4.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.8000 Event=Bank Val=2
+Time=4.8000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=4.8500 Event=Bank Val=2
+Time=4.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=4.9000 Event=Bank Val=2
+Time=4.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.9500 Event=Bank Val=2
+Time=4.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.0000 Event=Bank Val=2
+Time=5.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.0500 Event=Bank Val=2
+Time=5.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.1000 Event=Bank Val=2
+Time=5.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.1500 Event=Bank Val=2
+Time=5.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.2000 Event=Bank Val=2
+Time=5.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.2500 Event=Bank Val=2
+Time=5.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.3000 Event=Bank Val=2
+Time=5.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.2000 Event=Bank Val=2
+Time=5.2000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=5.3000 Event=Bank Val=2
+Time=5.3000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=5.3500 Event=Bank Val=2
+Time=5.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.4000 Event=Bank Val=2
+Time=5.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.4500 Event=Bank Val=2
+Time=5.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.5000 Event=Bank Val=2
+Time=5.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.5500 Event=Bank Val=2
+Time=5.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.6000 Event=Bank Val=2
+Time=5.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.6500 Event=Bank Val=2
+Time=5.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.7000 Event=Bank Val=2
+Time=5.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.7500 Event=Bank Val=2
+Time=5.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.8000 Event=Bank Val=2
+Time=5.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.8500 Event=Bank Val=2
+Time=5.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=5.9000 Event=Bank Val=2
+Time=5.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=5.9500 Event=Bank Val=2
+Time=5.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.0000 Event=Bank Val=2
+Time=6.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.0000 Event=Bank Val=2
+Time=6.0000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=6.0500 Event=Bank Val=2
+Time=6.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.1000 Event=Bank Val=2
+Time=6.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.1500 Event=Bank Val=2
+Time=6.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.2000 Event=Bank Val=2
+Time=6.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.2500 Event=Bank Val=2
+Time=6.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.3000 Event=Bank Val=2
+Time=6.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.2000 Event=Bank Val=2
+Time=6.2000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=6.3500 Event=Bank Val=2
+Time=6.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.4000 Event=Bank Val=2
+Time=6.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.5500 Event=Bank Val=2
+Time=6.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.6000 Event=Bank Val=2
+Time=6.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.6000 Event=Bank Val=2
+Time=6.6000 Event=PC Prog=80 ResultingPlayerProg=336 CurrentBank=2
+Time=6.6500 Event=Bank Val=2
+Time=6.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.7000 Event=Bank Val=2
+Time=6.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.7500 Event=Bank Val=2
+Time=6.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.8000 Event=Bank Val=2
+Time=6.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.8000 Event=Bank Val=2
+Time=6.8000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=6.8500 Event=Bank Val=2
+Time=6.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=6.9000 Event=Bank Val=2
+Time=6.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.9500 Event=Bank Val=2
+Time=6.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.0000 Event=Bank Val=2
+Time=7.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=6.9000 Event=Bank Val=2
+Time=6.9000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=7.0500 Event=Bank Val=2
+Time=7.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.1000 Event=Bank Val=2
+Time=7.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.1500 Event=Bank Val=2
+Time=7.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.2000 Event=Bank Val=2
+Time=7.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.2500 Event=Bank Val=2
+Time=7.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.3000 Event=Bank Val=2
+Time=7.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.3500 Event=Bank Val=2
+Time=7.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.4000 Event=Bank Val=2
+Time=7.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.4500 Event=Bank Val=2
+Time=7.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.5000 Event=Bank Val=2
+Time=7.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.5500 Event=Bank Val=2
+Time=7.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.6000 Event=Bank Val=2
+Time=7.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.6000 Event=Bank Val=2
+Time=7.6000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=7.6500 Event=Bank Val=2
+Time=7.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.7000 Event=Bank Val=2
+Time=7.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.7500 Event=Bank Val=2
+Time=7.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.8000 Event=Bank Val=2
+Time=7.8000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.7000 Event=Bank Val=2
+Time=7.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=7.8500 Event=Bank Val=2
+Time=7.8500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=7.9000 Event=Bank Val=2
+Time=7.9000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=7.9500 Event=Bank Val=2
+Time=7.9500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.0000 Event=Bank Val=2
+Time=8.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.0500 Event=Bank Val=2
+Time=8.0500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.1000 Event=Bank Val=2
+Time=8.1000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.1500 Event=Bank Val=2
+Time=8.1500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.2000 Event=Bank Val=2
+Time=8.2000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.2500 Event=Bank Val=2
+Time=8.2500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.3000 Event=Bank Val=2
+Time=8.3000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.3500 Event=Bank Val=2
+Time=8.3500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.4000 Event=Bank Val=2
+Time=8.4000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.4000 Event=Bank Val=2
+Time=8.4000 Event=PC Prog=77 ResultingPlayerProg=333 CurrentBank=2
+Time=8.4500 Event=Bank Val=2
+Time=8.4500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.5000 Event=Bank Val=2
+Time=8.5000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.5000 Event=Bank Val=2
+Time=8.5000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=8.5500 Event=Bank Val=2
+Time=8.5500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.6000 Event=Bank Val=2
+Time=8.6000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.6000 Event=Bank Val=2
+Time=8.6000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=8.6500 Event=Bank Val=2
+Time=8.6500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.7000 Event=Bank Val=2
+Time=8.7000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=8.7000 Event=Bank Val=2
+Time=8.7000 Event=PC Prog=78 ResultingPlayerProg=334 CurrentBank=2
+Time=8.7500 Event=Bank Val=2
+Time=8.7500 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=8.8000 Event=Bank Val=2
+Time=8.8000 Event=PC Prog=81 ResultingPlayerProg=337 CurrentBank=2
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=PC Prog=79 ResultingPlayerProg=79 CurrentBank=0
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=74 ResultingPlayerProg=330 CurrentBank=2
+Time=0.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.3333 Event=Bank Val=2
+Time=0.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.6667 Event=Bank Val=2
+Time=0.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.0000 Event=Bank Val=2
+Time=1.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=1.3333 Event=Bank Val=2
+Time=1.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=1.6667 Event=Bank Val=2
+Time=1.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=2.0000 Event=Bank Val=2
+Time=2.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=2.3333 Event=Bank Val=2
+Time=2.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=2.6667 Event=Bank Val=2
+Time=2.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=3.0000 Event=Bank Val=2
+Time=3.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=3.3333 Event=Bank Val=2
+Time=3.3333 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=3.6667 Event=Bank Val=2
+Time=3.6667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.0000 Event=Bank Val=2
+Time=4.0000 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=4.3333 Event=Bank Val=2
+Time=4.3333 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=4.6667 Event=Bank Val=2
+Time=4.6667 Event=PC Prog=76 ResultingPlayerProg=332 CurrentBank=2
+Time=5.0000 Event=Bank Val=2
+Time=5.0000 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=PC Prog=21 ResultingPlayerProg=21 CurrentBank=0
+Time=0.0000 Event=PC Prog=66 ResultingPlayerProg=66 CurrentBank=0
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=PC Prog=24 ResultingPlayerProg=24 CurrentBank=0
+Time=0.0000 Event=PC Prog=0 ResultingPlayerProg=0 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
+Time=0.0000 Event=PC Prog=2 ResultingPlayerProg=2 CurrentBank=0
+Time=0.0000 Event=PC Prog=48 ResultingPlayerProg=48 CurrentBank=0
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=72 ResultingPlayerProg=328 CurrentBank=2
+Time=0.0000 Event=Bank Val=2
+Time=0.0000 Event=PC Prog=70 ResultingPlayerProg=326 CurrentBank=2
+Time=1.8667 Event=Bank Val=2
+Time=1.8667 Event=PC Prog=75 ResultingPlayerProg=331 CurrentBank=2
+Time=0.0000 Event=PC Prog=29 ResultingPlayerProg=29 CurrentBank=0
+Time=0.0000 Event=PC Prog=27 ResultingPlayerProg=27 CurrentBank=0
+Time=0.0000 Event=PC Prog=25 ResultingPlayerProg=25 CurrentBank=0
+Time=0.0000 Event=PC Prog=67 ResultingPlayerProg=67 CurrentBank=0
+Time=0.0000 Event=PC Prog=81 ResultingPlayerProg=81 CurrentBank=0
+Time=0.0000 Event=PC Prog=34 ResultingPlayerProg=34 CurrentBank=0
