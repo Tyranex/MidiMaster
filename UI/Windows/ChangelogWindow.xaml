@@ -44,7 +44,7 @@
                     
                     <TextBlock Text="Version History" FontWeight="Bold" FontSize="20" Foreground="White" Margin="0,0,0,20"/>
                     
-                    <TextBlock Text="v0.113" FontWeight="Bold" FontSize="16" Foreground="#007acc" Margin="0,0,0,5"/>
+                    <TextBlock Text="v0.14" FontWeight="Bold" FontSize="16" Foreground="#007acc" Margin="0,0,0,5"/>
                     <TextBlock Foreground="#d4d4d4" TextWrapping="Wrap" Margin="10,0,0,15" LineHeight="20">
 • Fixed instrument assignments for multi-channel tracks (correctly maps channels like track 2 in multi-channel MIDIs).<LineBreak/>
 • Drastically improved tracker view rendering performance (bypasses heavy layout rebuilds during scroll updates).<LineBreak/>
