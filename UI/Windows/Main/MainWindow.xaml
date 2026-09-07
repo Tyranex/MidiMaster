@@ -7,7 +7,7 @@
         xmlns:gif="http://wpfanimatedgif.codeplex.com"
         mc:Ignorable="d"
         Title="MidiMaster" Height="450" Width="800"
-        Icon="mothroach.ico"
+        Icon="pack://application:,,,/mothroach.ico"
         WindowStyle="None"
         Background="#1e1e1e"
         UseLayoutRounding="True"
